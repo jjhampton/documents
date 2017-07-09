@@ -1,13 +1,14 @@
 
 # Impact Measurement
 
-## Mission
-Our mission is to help the military community learn software development, enter the tech industry, and code the future!
-
-## Problem Statement
+## The Problem
 Military programs are not suited for transitioning servicemembers, veterans, or families to be a part of the modern digital economy, where STEM skills are becoming more and more critical for career success.
 
 ## Our Solution
+Our mission is to help the military community learn software development, enter the tech industry, and code the future! Through teaching veterans, transitioning servicemembers, and their families to code with open source projects, we'll be able to help fill our economy's technical talent shortage with our nation's finest.
+
+### Programs and Services
+
 |**Input** | **Output** | **Outcomes** | **Short-Term Impact** | **Long-Term Impact** |
 |---|---|---|---|---|
 |Public Advocacy |asd|asd|asd|asd|
@@ -22,6 +23,14 @@ Military programs are not suited for transitioning servicemembers, veterans, or 
 ### Assumptions
 
 ## Target Audience / Beneficiaries
+
+### Military Veterans
+
+### Transitioning Servicemembers
+
+### Military Spouses
+
+### Military Families
 
 ## Impact Metrics
 
