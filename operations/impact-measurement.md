@@ -9,8 +9,8 @@ Our mission is to help the military community learn software development, enter 
 
 ### Programs and Services
 
-|**Input** | **Output** | **Outcomes** | **Short-Term Impact** | **Long-Term Impact** |
-|---|---|---|---|---|
+|**Input** | **Output** | **Outcomes** | **Short-Term Impact** | **Long-Term Impact** | **Risks** | **Mitigation Measures** |
+|---|---|---|---|---|---|---|
 |Public Advocacy |asd|asd|asd|asd|
 |Community Outreach|asd|asd|asd|asd|
 |Conference Scholarships|asd|asd|asd|asd|
@@ -24,26 +24,23 @@ Our mission is to help the military community learn software development, enter 
 
 ## Target Audience / Beneficiaries
 
-### Military Veterans
-
-### Transitioning Servicemembers
-
-### Military Spouses
-
-### Military Families
+| **Audience** | **Benefits** | **Risks** | **Mitigation Measures** |
+|-|-|-|-|
+| Military Veterans | |
+| Transitioning Servicemembers | |
+| Military Spouses | |
+| Military Families | |
 
 ## Impact Metrics
 
-| **Metric** | **Why** | **How** | **When** | **Who** |
-|---|---|---|---|---|
-| Number of people we are reaching | asdf | asdf | asdf | asdf |
-| asdf | asdf | asdf | asdf | asdf |
+| **Metric** | **Why?** | **How?** | **When?** | **Who?** | **Risks** | **Mitigation Measures** |
+|---|---|---|---|---|---|---|
+| Num Members contributing to open source projects | asdf | asdf | asdf | asdf |
+| Num Members attending a code school or 4-year CS program | asdf | asdf | asdf | asdf |
+| Num Members graduated from a code school or 4-year CS program | asdf | asdf | asdf | asdf |
+| Num Members placed in jobs | asdf | asdf | asdf | asdf |
 
 * Number of people we are reaching
   * Multiplier regarding number of people affected (trickle-down)
     * Military Family
     * Local Economy
-
-## Impact Risk
-
-### Risk Mitigation Measures
