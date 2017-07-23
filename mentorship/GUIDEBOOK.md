@@ -2,21 +2,25 @@
 
 ## **Background of Operation Code**
 
-Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the future! Our Mentorship Program connects members of the military community with tech industry professionals, for lifelong learning. Working together in our online community, you can select any programming skillset / tech stack of your choice, including:
+Operation Code is on a mission to help the military community learn software development, enter the tech industry, and code the future! Our Mentorship Program connects members of the military community with tech industry professionals for lifelong learning. Working together in our online community, you can select any programming skillset(s) / stack(s) of your choice, including:
 
-* Web Development
- * Ruby/Rails
- * Python
- * Node.js
- * Front-end Javascript
- * HTML/CSS
+* Web Development:
+  * Ruby on Rails
+  * Python
+  * Node.js
+  * Front-end Javascript
+  * HTML/CSS
  
-* Mobile Development
- * Java (Android)
- * Objective C and Swift (iOS)
+* Mobile Development:
+  * Android
+  * iOS
 
-* C, C++
-* C# / .NET
+* General Purpose:
+  * C, C++
+  * C# / .NET
+  * Java
+  * Objective C
+  * Swift
 
 ## **Statement of Purpose**
 
